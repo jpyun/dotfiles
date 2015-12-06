@@ -1,0 +1,7 @@
+inoremap <C-a> <Insert><C-a><Insert>
+nnoremap j 5j
+nnoremap k 5k
+set hintchars=hjklasdfgyuiopqwertnmzxcvb
+set gui=nonavigation
+colorscheme darkness
+
